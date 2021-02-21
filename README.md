@@ -1,20 +1,19 @@
 <p align="center">
-  <a href="https://mihir.ch">
-    <img src="logo.svg" alt="Muh" height="250"/>
+  <a href="https://veenits123.github.io/">
+    <img src="veenit.png" alt="Veenit" height="250"/>
   </a>
 </p>
 
 ## नमस्ते!
 
-I'm Mihir, a frontend and UX developer from India :india:, building web applications, microservices, [etc etc](https://mihir.ch/projects).
+I'm Veenit, a Competitive Programmer and C++ developer from India :india:, solving lots of problems, [etc etc](https://github.com/Veenits123).
 
-Currently, I'm working at [Devfolio](https://devfolio.co) as a frontend engineer intern.
+Currently, you're starring at this ;)
 
-I go by **plibither8** on most networks: [Twitter](https://twitter.com/plibither8), [LinkedIn](https://linkedin.com/in/plibither8), [Hacker News](https://news.ycombinator.com/user?id=plibither8), [Keybase](https://keybase.io/plibither8), [Instagram](https://www.instagram.com/plibither8), [Last.fm](https://last.fm/user/plibither8), [Spotify](https://open.spotify.com/user/tmf5wfz6mzs6cca830in4tm1m).
+I go by **veenits123** on most networks: [Twitter](https://twitter.com/vee_nits123), [LinkedIn](https://linkedin.com/in/veenits123), [Instagram](https://www.instagram.com/vee_nits123), [Spotify](https://open.spotify.com/user/ovs6jeqqwthcd1wjcmvmv0cnl).
 
-I am currently **not** accepting new freelance projects. To connect with me, drop an email at mihir@chaturvedi.dev or contact me on [Telegram: @plibither8](https://t.me/plibither8).
+To connect with me, drop an email at veenits123@gmail.com.
 
-But seriously, check out my website to know more about my work: **[mihir.ch](https://mihir.ch)**.
 
 <br>
 
