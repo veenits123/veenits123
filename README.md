@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://veenits123.github.io/">
-    <img src="veenit.png" alt="Veenit" height="250"/>
+    <img src="programmer.gif" alt="Veenit" height="250"/>
   </a>
 </p>
 
