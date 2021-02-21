@@ -18,5 +18,5 @@ To connect with me, drop an email at veenits123@gmail.com.
 <br>
 
 <p align="right">
-  <sup>Good times, good times.</sup>
+  <sup>be Happy!!</sup>
 </p>
