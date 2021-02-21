@@ -14,7 +14,6 @@ I go by **veenits123** on most networks: [Twitter](https://twitter.com/vee_nits1
 
 To connect with me, drop an email at veenits123@gmail.com.
 
-
 <br>
 
 <p align="right">
