@@ -17,7 +17,7 @@ Currently, I am working as a Software Engineer II at [Juniper Networks](https://
   Probably, I might be debugging something :)
 </p>
 
-**Wanna connect??** [Instagram](https://www.instagram.com/veenit._.singh123/), [Twitter](https://twitter.com/vee_nits123), [LinkedIn](https://linkedin.com/in/vee_nits123), [Spotify](https://open.spotify.com/user/ovs6jeqqwthcd1wjcmvmv0cnlpk).
+**Wanna connect??** [Instagram](https://www.instagram.com/veenit._.singh123/), [Twitter](https://twitter.com/vee_nits123), [LinkedIn](https://www.linkedin.com/in/veenits123/), [Spotify](https://open.spotify.com/user/ovs6jeqqwthcd1wjcmvmv0cnlpk).
 <br>
 <p align="right">
   <sup>be Happy!!</sup>
