@@ -13,6 +13,7 @@ Currently, working as a Software Engineer and participated as a Student Develope
   <a href="https://veenits123.github.io/">
     <img src="tom.gif" alt="Veenit" height="180"/>
   </a>
+  <br>
   Probably, I might be debugging something :)
 </p>
 
