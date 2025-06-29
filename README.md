@@ -7,7 +7,7 @@
 ## नमस्ते!
 
 I'm Veenit, a Software Engineer, Computer Science grad, Competitive Programmer, and C++ developer from India :india:, solving lots of problems, [etc etc](https://veenits123.github.io/).<br>
-Currently, I am working as a Software Engineer II at [Juniper Networks](https://github.com/Juniper) and participated as an Open Source Developer in **Google Summer of Code 2021** [@OSGeo](https://github.com/OSGeo).
+Currently, I am working as a Software Engineer III at [Juniper Networks](https://github.com/Juniper) and participated as an Open Source Developer in **Google Summer of Code 2021** [@OSGeo](https://github.com/OSGeo).
 
 <p align="center">
   <a href="https://veenits123.github.io/">
